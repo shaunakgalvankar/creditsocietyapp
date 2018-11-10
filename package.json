@@ -1,0 +1,30 @@
+{
+  "name": "creditsocietyapp",
+  "version": "1.0.0",
+  "description": "this is a project undertaken by the students of ieee djscoe",
+  "main": "creditserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaunakgalvankar/creditsocietyapp.git"
+  },
+  "keywords": [
+    "djscoe",
+    "credit",
+    "society"
+  ],
+  "author": "shaunak galvankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaunakgalvankar/creditsocietyapp/issues"
+  },
+  "homepage": "https://github.com/shaunakgalvankar/creditsocietyapp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.9",
+    "nodemon": "^1.18.5"
+  }
+}
